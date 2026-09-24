@@ -1,4 +1,4 @@
-# Concept 6: Sessions with `resume`, step by step
+# Sessions with `resume`, step by step
 
 This file explains how Concept 6 (**Sessions**) was added to the Claude Agent SDK Lab.
 It builds on Concept 1 ([Tab1-query().md](<Tab1-query().md>)), especially the `system/init` message.
